@@ -3,9 +3,7 @@ package com.ryoua.myblog.utils;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * @Author ryoua Created on 2019-05-05
- */
+
 public class PageUtil extends LinkedHashMap<String, Object> {
     //当前页码
     private int page;

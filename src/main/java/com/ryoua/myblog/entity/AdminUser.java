@@ -3,9 +3,7 @@ package com.ryoua.myblog.entity;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @Author ryoua Created on 2019-05-03
- */
+
 public class AdminUser implements Serializable {
     /**
      * 主键

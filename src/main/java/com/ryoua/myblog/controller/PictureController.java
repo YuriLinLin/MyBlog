@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 
 /**
- * @Author ryoua Created on 2019-05-06
+ * @Author
  */
 @RestController
 @RequestMapping("/pictures")

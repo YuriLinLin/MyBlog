@@ -3,9 +3,6 @@ package com.ryoua.myblog.utils;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 
-/**
- * @Author ryoua Created on 2019-05-04
- */
 public class SystemUtil {
 
     private SystemUtil(){}

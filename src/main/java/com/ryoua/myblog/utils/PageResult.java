@@ -3,9 +3,7 @@ package com.ryoua.myblog.utils;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @Author ryoua Created on 2019-05-05
- */
+
 public class PageResult implements Serializable {
     //总记录数
     private int totalCount;

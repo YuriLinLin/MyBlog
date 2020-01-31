@@ -9,9 +9,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @Author ryoua Created on 2019-05-03
- */
+
 @Service("adminUserService")
 public class AdminUserServiceImpl implements AdminUserService {
     @Autowired

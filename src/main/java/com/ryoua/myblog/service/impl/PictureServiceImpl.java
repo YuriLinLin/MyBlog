@@ -10,9 +10,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @Author ryoua Created on 2019-05-06
- */
+
 @Service("pictureService")
 public class PictureServiceImpl implements PictureService {
     @Autowired

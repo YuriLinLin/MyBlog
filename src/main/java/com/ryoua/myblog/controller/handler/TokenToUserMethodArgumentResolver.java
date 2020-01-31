@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 /**
- * @Author ryoua Created on 2019-05-03
+ * @Author
  */
 public class TokenToUserMethodArgumentResolver implements HandlerMethodArgumentResolver {
     @Resource

@@ -5,9 +5,7 @@ import com.ryoua.myblog.entity.Picture;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @Author ryoua Created on 2019-05-06
- */
+
 public interface PictureDao {
     /**
      * 返回数据列表

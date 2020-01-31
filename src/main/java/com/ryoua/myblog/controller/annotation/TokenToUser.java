@@ -3,7 +3,7 @@ package com.ryoua.myblog.controller.annotation;
 import java.lang.annotation.*;
 
 /**
- * @Author ryoua Created on 2019-05-03
+ * @Author
  */
 @Target({ElementType.PARAMETER})
 @Retention(RetentionPolicy.RUNTIME)

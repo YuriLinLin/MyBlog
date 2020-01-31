@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @Author ryoua Created on 2019-05-04
+ * @Author
  */
 public interface AdminUserDao {
 

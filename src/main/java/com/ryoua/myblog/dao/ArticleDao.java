@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @Author ryoua Created on 2019-05-07
+ * @Author
  */
 public interface ArticleDao {
     /**

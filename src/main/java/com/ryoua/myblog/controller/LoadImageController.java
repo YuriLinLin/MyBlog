@@ -19,7 +19,7 @@ import java.util.Date;
 import java.util.Random;
 
 /**
- * @Author ryoua Created on 2019-05-06
+ * @Author
  */
 @Controller
 @RequestMapping("/images")

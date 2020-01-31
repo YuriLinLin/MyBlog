@@ -4,9 +4,7 @@ import com.ryoua.myblog.entity.Picture;
 import com.ryoua.myblog.utils.PageResult;
 import com.ryoua.myblog.utils.PageUtil;
 
-/**
- * @Author ryoua Created on 2019-05-06
- */
+
 public interface PictureService {
 
     /**

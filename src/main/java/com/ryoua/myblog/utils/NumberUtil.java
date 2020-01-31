@@ -3,9 +3,7 @@ package com.ryoua.myblog.utils;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * @Author ryoua Created on 2019-05-04
- */
+
 public class NumberUtil {
 
     private NumberUtil() {

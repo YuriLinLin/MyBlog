@@ -4,9 +4,7 @@ import com.ryoua.myblog.entity.AdminUser;
 import com.ryoua.myblog.utils.PageResult;
 import com.ryoua.myblog.utils.PageUtil;
 
-/**
- * @Author ryoua Created on 2019-05-03
- */
+
 public interface AdminUserService {
 
     PageResult getAdminUserPage(PageUtil pageUtil);
