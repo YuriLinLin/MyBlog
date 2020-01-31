@@ -5,9 +5,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * @Author ryoua Created on 2019-05-03
- */
+
 public class CrossOriginesourceSharingFilter implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {

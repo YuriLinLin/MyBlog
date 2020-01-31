@@ -2,9 +2,7 @@ package com.ryoua.myblog.common;
 
 import java.io.Serializable;
 
-/**
- * @Author ryoua Created on 2019-05-03
- */
+
 public class Result<T> implements Serializable {
     private static final long serialVersionUID = 1L;
     private int resultCode;

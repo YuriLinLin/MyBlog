@@ -2,7 +2,7 @@ package com.ryoua.myblog.common;
 
 /**
  * 生成响应结果
- * @Author ryoua Created on 2019-05-03
+ *
  */
 public class ResultGenerator {
     private static final String DEFAULT_SUCCESS_MESSAGE = "SUCCESS";

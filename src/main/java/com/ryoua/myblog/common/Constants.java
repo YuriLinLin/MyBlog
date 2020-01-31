@@ -1,8 +1,6 @@
 package com.ryoua.myblog.common;
 
-/**
- * @Author ryoua Created on 2019-05-03
- */
+
 public class Constants {
     public static final int RESULT_CODE_SUCCESS = 200;  // 成功处理请求
     public static final int RESULT_CODE_BAD_REQUEST = 412;  // 请求错误
