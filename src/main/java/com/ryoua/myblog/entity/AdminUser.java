@@ -82,4 +82,16 @@ public class AdminUser implements Serializable {
     public void setCreateTime(Date createTime) {
         this.createTime = createTime;
     }
+
+    @Override
+    public String toString() {
+        return "AdminUser{" +
+                "id=" + id +
+                ", userName='" + userName + '\'' +
+                ", password='" + password + '\'' +
+                ", userToken='" + userToken + '\'' +
+                ", isDeleted=" + isDeleted +
+                ", createTime=" + createTime +
+                '}';
+    }
 }
